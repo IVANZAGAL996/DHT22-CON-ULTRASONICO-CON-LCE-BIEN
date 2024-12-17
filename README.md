@@ -103,20 +103,26 @@ lcd.clear();
 
 ```
 
-CARGAMOS LA LIBRERIA DTH
+CARGAMOS LAS SIGUIENTES LIBRERIAS
 
-![](https://github.com/IVANZAGAL996/PRACTICA-DHT-22/blob/main/Captura%20de%20pantalla%20(337).png)
-INSERTAMOS EL DH22
+![](https://github.com/IVANZAGAL996/DHT22-CON-ULTRASONICO-CON-LCE-BIEN/blob/main/librerias.png)
 
-![](https://github.com/IVANZAGAL996/PRACTICA-DHT-22/blob/main/Captura%20de%20pantalla%20(338).png)
+INSERTAMOS EL DHT22
+
+![](https://github.com/IVANZAGAL996/DHT22-CON-ULTRASONICO-CON-LCE-BIEN/blob/main/dht22.png)
 
 REALIZAMOS LA SIGUIENTE CONEXION
 
-![](https://github.com/IVANZAGAL996/PRACTICA-DHT-22/blob/main/Captura%20de%20pantalla%20(339).png)
+![](https://github.com/IVANZAGAL996/DHT22-CON-ULTRASONICO-CON-LCE-BIEN/blob/main/diagrama%20de%20conexion.png)
 
 INICIAMOS LA SIMULACION Y OBSRRVAREMOS LOS RESULTASDOS EN EL MONITOR SERIAL.
+REULTADOS TEMPERATURA Y HUMEDAD
 
-![](https://github.com/IVANZAGAL996/PRACTICA-DHT-22/blob/main/resultados%20practicA%201.png)
+![](https://github.com/IVANZAGAL996/DHT22-CON-ULTRASONICO-CON-LCE-BIEN/blob/main/resultados%20temp%20y%20humedad.png)
+RESULTADOS DISTANCIA
+
+![](https://github.com/IVANZAGAL996/DHT22-CON-ULTRASONICO-CON-LCE-BIEN/blob/main/resultados.png)
+
 
 # CREDITOS
 Elaborado por:
