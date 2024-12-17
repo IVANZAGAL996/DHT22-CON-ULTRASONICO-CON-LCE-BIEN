@@ -133,7 +133,7 @@ REULTADOS TEMPERATURA Y HUMEDAD
 
 RESULTADOS DISTANCIA
 
-![](https://github.com/IVANZAGAL996/DHT22-CON-ULTRASONICO-CON-LCE-BIEN/blob/main/resultados.png)
+![](https://github.com/IVANZAGAL996/DHT22-CON-ULTRASONICO-CON-LCE-BIEN/blob/main/Captura%20de%20pantalla%20(101).png)
 
 
 # CREDITOS
